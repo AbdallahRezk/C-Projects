@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/abdallah/C++/function_template/build",
+  "command": "/usr/bin/c++   -I/home/abdallah/C++/function_template/includes -I/home/abdallah/C++/function_template/utils  -g   -std=gnu++17 -o CMakeFiles/PRINT.dir/src/project2.cpp.o -c /home/abdallah/C++/function_template/src/project2.cpp",
+  "file": "/home/abdallah/C++/function_template/src/project2.cpp"
+}
+]

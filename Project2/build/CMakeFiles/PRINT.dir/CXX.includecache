@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/project2.hpp
+string
+-
+
+/home/abdallah/C++/function_template/src/project2.cpp
+iostream
+-
+string
+-
+project2.hpp
+-
+
